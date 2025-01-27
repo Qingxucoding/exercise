@@ -1,4 +1,4 @@
-# erercise
+# exercise
 
 ## 研究实践经历
 
